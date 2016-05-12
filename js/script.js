@@ -19,7 +19,7 @@ $(function(){
 		emptyStar: '<img src="img/different-empty.png" width="320" height="48" style="opacity: 0.75;" />',
 		filledStar: '<img src="img/different-filled.png" width="320" height="48" />',
 		// showClear: false,
-		clearCaption: 'Hey, you can even rate with this!',
+		clearCaption: 'Hey, you can rate even with this!',
 		starCaptions: {
 			0.5: '0.5',
 			1: '1.0',
