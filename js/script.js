@@ -18,19 +18,18 @@ $(function(){
 		stars: 1,
 		emptyStar: '<img src="img/different-empty.png" width="320" height="48" style="opacity: 0.75;" />',
 		filledStar: '<img src="img/different-filled.png" width="320" height="48" />',
-		// showClear: false,
 		clearCaption: 'Hey, you can rate even with this!',
 		starCaptions: {
-			0.5: '0.5',
-			1: '1.0',
-			1.5: '1.5',
-			2: '2.0',
-			2.5: '2.5',
-			3: '3.0',
-			3.5: '3.5',
-			4: '4.0',
-			4.5: '4.5',
-			5: '5.0'
+			0.5	: '0.5',
+			1		: '1.0',
+			1.5	: '1.5',
+			2		: '2.0',
+			2.5	: '2.5',
+			3		: '3.0',
+			3.5	: '3.5',
+			4		: '4.0',
+			4.5	: '4.5',
+			5		: '5.0'
 		}
 	});
 });
